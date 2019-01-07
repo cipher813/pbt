@@ -1,5 +1,7 @@
 # Population Based Training of Neural Networks
 
+Based on PBT whitepaper review [presentation](https://docs.google.com/presentation/d/1bN74l1Qjd5aqS8OEcCMJniwYaOnJkAMA-YICy5bzyN4/edit?usp=sharing).
+
 Experiments with the UC Berkeley Ray Project's Tune [implementation of PBT](https://ray.readthedocs.io/en/latest/tune.html).
 
 
